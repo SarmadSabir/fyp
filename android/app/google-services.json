@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245421980910",
+    "project_id": "vrvr-c213e",
+    "storage_bucket": "vrvr-c213e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245421980910:android:7c82ee325b9dd5bfbf07ff",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ogqEntnTmvR9QpvG4wElp7IACOAYjvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245421980910:android:c516a06e81002ef0bf07ff",
+        "android_client_info": {
+          "package_name": "com.example.vr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ogqEntnTmvR9QpvG4wElp7IACOAYjvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
